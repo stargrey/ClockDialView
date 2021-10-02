@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClockDialView" >
+        <attr name="backgroundColor" format="color"/>
+        <attr name="inner_BackgroundColor" format="color"/>
+        <attr name="outer_BackgroundColor" format="color"/>
+        <attr name="shadowColor" format="color"/>
+
+        <attr name="inner_SelectedColor" format="color"/>
+        <attr name="outer_SelectedColor" format="color"/>
+
+        <attr name="inner_HourTextColor" format="color"/>
+        <attr name="outer_MinuteTextColor" format="color"/>
+        <attr name="center_TextColor" format="color"/>
+
+        <attr name="radius" format="float"/>
+        <attr name="innerArcWidth" format="float"/>
+        <attr name="outerArcWidth" format="float"/>
+
+        <attr name="inner_HourTextSize" format="integer"/>
+        <attr name="outer_MinuteTextSize" format="integer"/>
+        <attr name="center_TextSize" format="integer"/>
+
+        <attr name="offsetX" format="integer"/>
+        <attr name="offsetY" format="integer"/>
+    </declare-styleable>
+</resources>
