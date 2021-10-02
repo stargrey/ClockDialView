@@ -5,9 +5,9 @@
 与其不同的是,我去掉了设置 AM 或 PM 的按钮,改为了使用 24 小时制,分钟的设置粒度从 5 分钟改为了 1 分钟,底部的投影没能还原出来,改为了阴影
 
 ## 截图
-![](screenshot/screenshot.jpg)
+<img src="screenshot/screenshot.jpg" height="500">
 
-![](screenshot/Screenrecor.gif)
+<img src="screenshot/Screenrecor.gif" height="500">
 
 ## 如果你想使用的话
 复制该文件`ClockDialView\app\src\main\java\com\application\clockdialview\ClockDialView.java`
